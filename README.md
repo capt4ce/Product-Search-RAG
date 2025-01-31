@@ -1,7 +1,7 @@
 # Product Search RAG
 
 This project is to perform searching on the list of products with human language question.
-![docs/example.png]
+![Example](docs/example.png)
 
 ## Dependencies
 
