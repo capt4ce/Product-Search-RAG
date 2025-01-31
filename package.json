@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "migrate": "node src/migrate.mjs",
+    "seed": "node src/seed.mjs",
+    "start": "node src/main.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "dotenv": "^16.4.7",
+    "openai": "^4.81.0",
+    "sqlite-vec": "0.1.7-alpha.2"
+  }
+}
